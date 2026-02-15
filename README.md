@@ -16,7 +16,7 @@ mimicking the behavior of an embedded system.
 - RED light stays on for 5 seconds
 - GREEN LIght stays on for 5 seconds
 - YELLOW Light stays on for 2 seconds
-- The system runs continuously qin an infinite loop
+- The system runs continuously using an infinite loop
 
 ## What I Learned
 - Embedded system state logic
